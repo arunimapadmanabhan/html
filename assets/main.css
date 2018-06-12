@@ -1,0 +1,59 @@
+.head {
+    text-align: center;
+    color: white;
+    padding-top: 29px;
+    margin-top: 3px;
+}
+
+.portion {
+    background: green;
+    height: 100px;
+}
+.part1{
+	width: 50%; 
+	float:left;
+	color:black;
+	background: red;
+	text-align:center;
+	vertical-align: middle;
+	line-height: 300px;
+}
+.part2{
+width: 50%; 
+float:right;
+background: black;
+color: red;
+text-align:center;
+vertical-align: middle;
+line-height: 300px;
+}
+.position1{
+    width: 33.333%;
+	float: left;
+	background:black;
+	color: white;
+	text-align: left;
+	vertical-align: middle;
+	line-height: 150px;
+}
+.position2{
+	width: 33.333%;
+	float: left;
+	background: yellow;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+    line-height:150px;
+
+}
+.position3{
+	width: 33.333%;
+	background:blue;
+	color: white;
+	float: left;
+	text-align: right;
+	vertical-align: middle;
+    line-height: 150px;
+	
+
+}
