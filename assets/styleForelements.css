@@ -1,0 +1,106 @@
+.partA{
+    width: 50%;
+    height:100px;
+    float:left;
+    border-style: solid;
+
+}
+.partB{
+	width:49%;
+	height:100px;
+	float:right;
+	border-style: solid;
+}
+.label{
+    width: 50%;
+    height:100px;
+    float:left;
+    border-style: solid;
+}
+.input{
+	width:49%;
+	height:100px;
+	float:right;
+	border-style: solid;
+}
+.checkbox{
+	width: 50%;
+    height:100px;
+    float:left;
+    border-style: solid;
+}
+.container{
+	width:49%;
+	height:100px;
+	float:right;
+	border-style: solid;
+}
+.button{
+	width:49%;
+	height:100px;
+	float:right;
+	border-style: solid;
+
+}
+.comment{
+	width: 50%;
+    height:100px;
+    float:left;
+    border-style: solid;
+
+}
+.textarea{
+	width:49%;
+	height:100px;
+	float:right;
+	border-style: solid;
+
+}
+.gen{
+	width: 50%;
+    height:100px;
+    float:left;
+    border-style: solid;
+
+
+}
+.caste{
+	width:49%;
+	height:100px;
+	float:right;
+	border-style: solid;
+}
+.drop{
+	width: 50%;
+    height:100px;
+    float:left;
+    border-style: solid;
+
+}
+.list{
+	width:49%;
+	height:100px;
+	float:right;
+	border-style: solid;
+}	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
